@@ -1,11 +1,19 @@
 # arxivの学問領域の指定
-subject: 'cat:cs.*'
+subject: 'cat:quant-ph OR cat:physics.* OR cat:cond-mat.*'
 
 # 検索キーワード
 keywords:
-        kaggle: 3
-        resnet: 3
-        anomaly detection: 1
+        silicon carbide: 3
+        diamond: 3
+        nitrogen-vacancy: 5
+        nitrogen vacancy: 5
+        silicon vacancy: 5
+        divacancy: 5
+        spin injection: 3
+        spin transport: 2
+        quantum repeater: 2
+        Wrachtrup: 3
+        Walsworth: 3
 
 # 通知の閾値
 score_threshold: 0
